@@ -17,12 +17,12 @@ public class Temperatures {
         }
         //END SOLUTION
         //STUB: //while the number are betwen -29 and 39 add the numbre to graphic whith Graph class
-        // Graph is used as follows:
-        //Graph.addNumber(7);
-        //double value = 13.5;
-        //Graph.addNumber(value);
-        //value = 3;
-        //Graph.addNumber(value);
-        // Remove or comment out these lines above before trying to run the tests.
+        //STUB: Graph is used as follows:
+        //STUB: Graph.addNumber(7);
+        //STUB: double value = 13.5;
+        //STUB: Graph.addNumber(value);
+        //STUB: value = 3;
+        //STUB: Graph.addNumber(value);
+        //STUB: Remove or comment out these lines above before trying to run the tests.
     }
 }
